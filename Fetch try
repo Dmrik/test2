@@ -1,7 +1,14 @@
 This is a sample file for trying fetch
  try it from terminal.
   by
+  STEP1 = fetch changes.
   *  go to main brnch of your projext ;
    _ git checkout main
   * fetch all the changes 
    _ git fetch --all --prune
+
+
+
+STEP2 = fupdate your locals master to admin master .
+ * git reset --hard upstream/main
+ _ 
