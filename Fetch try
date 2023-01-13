@@ -12,3 +12,6 @@ This is a sample file for trying fetch
 STEP2 = fupdate your locals master to admin master .
  * git reset --hard upstream/main
  _ 
+
+
+i updated fetcgh file 
